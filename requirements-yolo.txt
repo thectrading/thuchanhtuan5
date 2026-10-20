@@ -1,0 +1,5 @@
+# Python 3.10 / Humble cv_bridge uses the NumPy 1.x ABI.
+# Install CPU torch/torchvision first; see README.md.
+numpy>=1.23,<2
+opencv-python>=4.6,<4.12
+ultralytics==8.3.235

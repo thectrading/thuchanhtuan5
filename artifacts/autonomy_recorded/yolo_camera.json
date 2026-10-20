@@ -1,0 +1,24 @@
+{
+  "header": {
+    "stamp": {
+      "sec": 89,
+      "nanosec": 901000000
+    },
+    "frame_id": "oakd_rgb_camera_optical_frame"
+  },
+  "image_width": 320,
+  "image_height": 240,
+  "objects": [
+    {
+      "class_id": 56,
+      "class_name": "chair",
+      "confidence": 0.9427,
+      "xyxy": [
+        19.03,
+        40.43,
+        116.54,
+        152.42
+      ]
+    }
+  ]
+}

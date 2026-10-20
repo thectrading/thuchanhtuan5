@@ -1,0 +1,37 @@
+{
+  "method": "waypoint_navigator /navigate_to_pose",
+  "frame": "map",
+  "all_succeeded": true,
+  "goals": [
+    {
+      "index": 1,
+      "target": [
+        -2.0,
+        -3.0,
+        0.0
+      ],
+      "status": 4,
+      "elapsed_wall_s": 51.272
+    },
+    {
+      "index": 2,
+      "target": [
+        2.0,
+        -3.0,
+        0.0
+      ],
+      "status": 4,
+      "elapsed_wall_s": 54.863
+    },
+    {
+      "index": 3,
+      "target": [
+        -2.0,
+        4.0,
+        1.5707963267948966
+      ],
+      "status": 4,
+      "elapsed_wall_s": 96.911
+    }
+  ]
+}

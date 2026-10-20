@@ -1,0 +1,43 @@
+{
+  "method": "waypoint_navigator /navigate_to_pose",
+  "frame": "map",
+  "all_succeeded": true,
+  "goals": [
+    {
+      "index": 1,
+      "target": [
+        -2.0,
+        -3.0,
+        0.0
+      ],
+      "status": 4,
+      "started_ros_s": 46.515,
+      "elapsed_wall_s": 46.783,
+      "finished_ros_s": 64.614
+    },
+    {
+      "index": 2,
+      "target": [
+        2.0,
+        -3.0,
+        0.0
+      ],
+      "status": 4,
+      "started_ros_s": 65.526,
+      "elapsed_wall_s": 45.262,
+      "finished_ros_s": 84.081
+    },
+    {
+      "index": 3,
+      "target": [
+        -2.0,
+        4.0,
+        1.5707963267948966
+      ],
+      "status": 4,
+      "started_ros_s": 85.398,
+      "elapsed_wall_s": 92.212,
+      "finished_ros_s": 121.314
+    }
+  ]
+}

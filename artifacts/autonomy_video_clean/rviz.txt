@@ -1,0 +1,54 @@
+Warning: Ignoring XDG_SESSION_TYPE=wayland on Gnome. Use QT_QPA_PLATFORM=wayland to run on Wayland anyway.
+[INFO] [1792480747.052291927] [rviz2]: Stereo is NOT SUPPORTED
+[INFO] [1792480747.052420259] [rviz2]: OpenGl version: 4.5 (GLSL 4.5)
+[INFO] [1792480747.153108474] [rviz2]: Stereo is NOT SUPPORTED
+[INFO] [1792480747.687039807] [rviz2]: Stereo is NOT SUPPORTED
+[INFO] [1792480747.942194336] [rviz2]: Stereo is NOT SUPPORTED
+[INFO] [1792480748.692462156] [rviz2]: Trying to create a map of size 401 x 401 using 1 swatches
+[ERROR] [1792480748.861834886] [rviz2]: Vertex Program:rviz/glsl120/indexed_8bit_image.vert Fragment Program:rviz/glsl120/indexed_8bit_image.frag GLSL link result : 
+active samplers with a different type refer to the same texture image unit
+[INFO] [1792480752.698178187] [rviz]: Message Filter dropping message: frame 'turtlebot4/rplidar_link/rplidar' at time 0.009 for reason 'discarding message because the queue is full'
+[INFO] [1792480755.298412070] [rviz]: Message Filter dropping message: frame 'turtlebot4/rplidar_link/rplidar' at time 1.122 for reason 'discarding message because the queue is full'
+[INFO] [1792480757.898149508] [rviz]: Message Filter dropping message: frame 'turtlebot4/rplidar_link/rplidar' at time 2.034 for reason 'discarding message because the queue is full'
+[INFO] [1792480760.498005499] [rviz]: Message Filter dropping message: frame 'turtlebot4/rplidar_link/rplidar' at time 3.027 for reason 'discarding message because the queue is full'
+[INFO] [1792480760.898237480] [rviz]: Message Filter dropping message: frame 'odom' at time 0.687 for reason 'discarding message because the queue is full'
+[INFO] [1792480763.098159006] [rviz]: Message Filter dropping message: frame 'turtlebot4/rplidar_link/rplidar' at time 4.035 for reason 'discarding message because the queue is full'
+[INFO] [1792480763.898850903] [rviz]: Message Filter dropping message: frame 'odom' at time 1.896 for reason 'discarding message because the queue is full'
+[INFO] [1792480765.699253107] [rviz]: Message Filter dropping message: frame 'turtlebot4/rplidar_link/rplidar' at time 5.073 for reason 'discarding message because the queue is full'
+[INFO] [1792480766.898326275] [rviz]: Message Filter dropping message: frame 'odom' at time 3.090 for reason 'discarding message because the queue is full'
+[INFO] [1792480768.298922476] [rviz]: Message Filter dropping message: frame 'odom' at time 1.002 for reason 'discarding message because the queue is full'
+[INFO] [1792480768.299192066] [rviz]: Message Filter dropping message: frame 'turtlebot4/rplidar_link/rplidar' at time 6.066 for reason 'discarding message because the queue is full'
+[INFO] [1792480770.099073408] [rviz]: Message Filter dropping message: frame 'odom' at time 4.299 for reason 'discarding message because the queue is full'
+[INFO] [1792480770.899071814] [rviz]: Message Filter dropping message: frame 'turtlebot4/rplidar_link/rplidar' at time 7.104 for reason 'discarding message because the queue is full'
+[INFO] [1792480771.698271871] [rviz]: Message Filter dropping message: frame 'odom' at time 2.202 for reason 'discarding message because the queue is full'
+[INFO] [1792480773.298807592] [rviz]: Message Filter dropping message: frame 'odom' at time 5.493 for reason 'discarding message because the queue is full'
+[INFO] [1792480773.498343953] [rviz]: Message Filter dropping message: frame 'turtlebot4/rplidar_link/rplidar' at time 8.112 for reason 'discarding message because the queue is full'
+[INFO] [1792480775.100258959] [rviz]: Message Filter dropping message: frame 'odom' at time 3.402 for reason 'discarding message because the queue is full'
+[INFO] [1792480776.099167974] [rviz]: Message Filter dropping message: frame 'odom' at time 6.396 for reason 'discarding message because the queue is full'
+[INFO] [1792480776.099623160] [rviz]: Message Filter dropping message: frame 'turtlebot4/rplidar_link/rplidar' at time 9.009 for reason 'discarding message because the queue is full'
+[INFO] [1792480778.699066065] [rviz]: Message Filter dropping message: frame 'odom' at time 4.602 for reason 'discarding message because the queue is full'
+[INFO] [1792480778.699558302] [rviz]: Message Filter dropping message: frame 'odom' at time 7.299 for reason 'discarding message because the queue is full'
+[INFO] [1792480778.699709453] [rviz]: Message Filter dropping message: frame 'turtlebot4/rplidar_link/rplidar' at time 9.843 for reason 'discarding message because the queue is full'
+[INFO] [1792480781.299218904] [rviz]: Message Filter dropping message: frame 'turtlebot4/rplidar_link/rplidar' at time 10.722 for reason 'discarding message because the queue is full'
+[INFO] [1792480781.498934336] [rviz]: Message Filter dropping message: frame 'odom' at time 8.202 for reason 'discarding message because the queue is full'
+[INFO] [1792480782.299082026] [rviz]: Message Filter dropping message: frame 'odom' at time 5.802 for reason 'discarding message because the queue is full'
+[INFO] [1792480783.899214856] [rviz]: Message Filter dropping message: frame 'turtlebot4/rplidar_link/rplidar' at time 11.601 for reason 'discarding message because the queue is full'
+[INFO] [1792480784.499808898] [rviz]: Message Filter dropping message: frame 'odom' at time 9.396 for reason 'discarding message because the queue is full'
+[INFO] [1792480785.098980334] [rviz]: Message Filter dropping message: frame 'odom' at time 7.002 for reason 'discarding message because the queue is full'
+[INFO] [1792480786.500103192] [rviz]: Message Filter dropping message: frame 'turtlebot4/rplidar_link/rplidar' at time 12.675 for reason 'discarding message because the queue is full'
+[INFO] [1792480787.500072990] [rviz]: Message Filter dropping message: frame 'odom' at time 10.590 for reason 'discarding message because the queue is full'
+[INFO] [1792480788.498159270] [rviz]: Message Filter dropping message: frame 'odom' at time 8.202 for reason 'discarding message because the queue is full'
+[INFO] [1792480789.100268708] [rviz]: Message Filter dropping message: frame 'turtlebot4/rplidar_link/rplidar' at time 13.698 for reason 'discarding message because the queue is full'
+[INFO] [1792480790.098132848] [rviz]: Message Filter dropping message: frame 'odom' at time 12.396 for reason 'discarding message because the queue is full'
+[INFO] [1792480791.698530352] [rviz]: Message Filter dropping message: frame 'odom' at time 9.402 for reason 'discarding message because the queue is full'
+[INFO] [1792480791.698936947] [rviz]: Message Filter dropping message: frame 'turtlebot4/rplidar_link/rplidar' at time 14.529 for reason 'discarding message because the queue is full'
+[INFO] [1792480792.698335047] [rviz]: Message Filter dropping message: frame 'odom' at time 14.847 for reason 'discarding message because the queue is full'
+[INFO] [1792480793.332866021] [rviz2]: Trying to create a map of size 50 x 50 using 1 swatches
+[INFO] [1792480793.740235642] [rviz2]: Trying to create a map of size 401 x 401 using 1 swatches
+[INFO] [1792480803.275224836] [rviz]: Message Filter dropping message: frame 'odom' at time 10.602 for reason 'the timestamp on the message is earlier than all the data in the transform cache'
+[INFO] [1792480806.536283534] [rviz]: Message Filter dropping message: frame 'odom' at time 11.802 for reason 'the timestamp on the message is earlier than all the data in the transform cache'
+[INFO] [1792480810.052170191] [rviz]: Message Filter dropping message: frame 'odom' at time 13.002 for reason 'the timestamp on the message is earlier than all the data in the transform cache'
+[INFO] [1792480813.392563579] [rviz]: Message Filter dropping message: frame 'odom' at time 14.202 for reason 'the timestamp on the message is earlier than all the data in the transform cache'
+[INFO] [1792480815.266801216] [rviz]: Message Filter dropping message: frame 'odom' at time 14.895 for reason 'the timestamp on the message is earlier than all the data in the transform cache'
+[INFO] [1792480816.209972664] [rviz]: Message Filter dropping message: frame 'odom' at time 15.234 for reason 'the timestamp on the message is earlier than all the data in the transform cache'
+[INFO] [1792480817.836347556] [rviz]: Message Filter dropping message: frame 'turtlebot4/rplidar_link/rplidar' at time 14.898 for reason 'the timestamp on the message is earlier than all the data in the transform cache'

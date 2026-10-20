@@ -1,0 +1,100 @@
+{
+  "source_webm": "DEMO_NAV_YOLO_CLEAN.webm",
+  "mp4": "TURTLEBOT4_NAV2_YOLO_DEMO.mp4",
+  "source_birth_epoch": 1792480749,
+  "duration_s": 354.229062,
+  "streams": [
+    {
+      "codec_name": "vp8",
+      "width": 1600,
+      "height": 900,
+      "r_frame_rate": "8/1"
+    }
+  ],
+  "chapters": [
+    [
+      0,
+      "Nap map - AMCL - undock"
+    ],
+    [
+      74.59163022041321,
+      "Goal 1 - Nav2 + YOLO"
+    ],
+    [
+      142.20049476623535,
+      "Goal 2 - Nav2 + YOLO"
+    ],
+    [
+      212.18778133392334,
+      "Goal 3 - Nav2 + YOLO"
+    ]
+  ],
+  "edited_or_spliced": false,
+  "method": "Continuous real X11 screen capture; MP4 is a format conversion of the full recording.",
+  "mp4_properties": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1600,
+        "height": 900,
+        "r_frame_rate": "8/1"
+      },
+      {
+        "codec_name": "bin_data",
+        "r_frame_rate": "0/0"
+      }
+    ],
+    "chapters": [
+      {
+        "id": 0,
+        "time_base": "1/1000",
+        "start": 0,
+        "start_time": "0.000000",
+        "end": 74591,
+        "end_time": "74.591000",
+        "tags": {
+          "title": "Nap map - AMCL - undock"
+        }
+      },
+      {
+        "id": 1,
+        "time_base": "1/1000",
+        "start": 74591,
+        "start_time": "74.591000",
+        "end": 142200,
+        "end_time": "142.200000",
+        "tags": {
+          "title": "Goal 1 - Nav2 + YOLO"
+        }
+      },
+      {
+        "id": 2,
+        "time_base": "1/1000",
+        "start": 142200,
+        "start_time": "142.200000",
+        "end": 212187,
+        "end_time": "212.187000",
+        "tags": {
+          "title": "Goal 2 - Nav2 + YOLO"
+        }
+      },
+      {
+        "id": 3,
+        "time_base": "1/1000",
+        "start": 212187,
+        "start_time": "212.187000",
+        "end": 354229,
+        "end_time": "354.229000",
+        "tags": {
+          "title": "Goal 3 - Nav2 + YOLO"
+        }
+      }
+    ],
+    "format": {
+      "duration": "354.250000",
+      "size": "15483286"
+    }
+  },
+  "mp4_sha256": "7ca4b7a928fd25347560545324205d8c9fd85d2728705761bbad36b346128602"
+}

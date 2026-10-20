@@ -1,0 +1,24 @@
+{
+  "all_goals_succeeded": true,
+  "goal_wall_seconds": [
+    46.783,
+    45.262,
+    92.212
+  ],
+  "rgb_frames": 3717,
+  "annotated_frames": 711,
+  "positive_detection_frames_during_navigation": 117,
+  "predicted_class_counts": {
+    "chair": 115,
+    "stop sign": 1,
+    "traffic light": 19,
+    "person": 1,
+    "snowboard": 3
+  },
+  "max_confidence_during_navigation": 0.9425,
+  "hazards_during_navigation": {
+    "0": 118
+  },
+  "bump_cliff_stall_wheel_drop_count": 0,
+  "method": "Read-only ROS records; predicted labels are not ground-truth class annotations. Sampled hazard monitoring is not a continuous geometric collision proof."
+}

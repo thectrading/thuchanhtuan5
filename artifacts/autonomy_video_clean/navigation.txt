@@ -1,0 +1,279 @@
+[INFO] [launch]: All log files can be found below /home/chuc/.ros/log/2026-10-20-14-20-18-863000-chuc-Precision-5530-18281
+[INFO] [launch]: Default logging verbosity is set to INFO
+[INFO] [python-1]: process started with pid [18282]
+[INFO] [waypoint_navigator.py-2]: process started with pid [18284]
+[waypoint_navigator.py-2] [INFO] [1792480819.959827641] [waypoint_navigator]: Waiting for active AMCL/Nav2 and map -> base_link. Verify scan alignment in RViz.
+[python-1] [INFO] [1792480822.007700890] [yolo_detector]: YOLO /home/chuc/.cache/turtlebot4_slam_nav/models/yolov8n.pt: /oakd/rgb/preview/image_raw -> /yolo/annotated_image
+[python-1] [INFO] [1792480822.554042737] [yolo_detector]: Detected: chair 84%
+[waypoint_navigator.py-2] [INFO] [1792480823.591630166] [waypoint_navigator]: Goal 1/3: (-2.0, -3.0, 0.0) in map
+[waypoint_navigator.py-2] [INFO] [1792480823.598182299] [waypoint_navigator]: Distance remaining: 0.00 m; recoveries: 0
+[python-1] [INFO] [1792480824.508265534] [yolo_detector]: Detected: chair 86%
+[waypoint_navigator.py-2] [INFO] [1792480825.608315765] [waypoint_navigator]: Distance remaining: 3.67 m; recoveries: 0
+[python-1] [INFO] [1792480826.618178000] [yolo_detector]: Detected: chair 89%
+[waypoint_navigator.py-2] [INFO] [1792480827.620352689] [waypoint_navigator]: Distance remaining: 3.52 m; recoveries: 0
+[python-1] [INFO] [1792480828.733895474] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480829.622847608] [waypoint_navigator]: Distance remaining: 3.40 m; recoveries: 0
+[python-1] [INFO] [1792480830.805114418] [yolo_detector]: Detected: person 50%
+[waypoint_navigator.py-2] [INFO] [1792480831.627380546] [waypoint_navigator]: Distance remaining: 3.22 m; recoveries: 0
+[python-1] [INFO] [1792480832.947390777] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480833.628560327] [waypoint_navigator]: Distance remaining: 3.10 m; recoveries: 0
+[python-1] [INFO] [1792480835.064771368] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480835.629466237] [waypoint_navigator]: Distance remaining: 2.95 m; recoveries: 0
+[python-1] [INFO] [1792480837.364961889] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480837.639167328] [waypoint_navigator]: Distance remaining: 2.82 m; recoveries: 0
+[python-1] [INFO] [1792480839.423648736] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480839.647063476] [waypoint_navigator]: Distance remaining: 2.67 m; recoveries: 0
+[python-1] [INFO] [1792480841.493174517] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480841.656968123] [waypoint_navigator]: Distance remaining: 2.55 m; recoveries: 0
+[waypoint_navigator.py-2] [INFO] [1792480843.668276929] [waypoint_navigator]: Distance remaining: 2.42 m; recoveries: 0
+[python-1] [INFO] [1792480843.751262871] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480845.676151215] [waypoint_navigator]: Distance remaining: 2.29 m; recoveries: 0
+[python-1] [INFO] [1792480845.876477603] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480847.677134549] [waypoint_navigator]: Distance remaining: 2.15 m; recoveries: 0
+[python-1] [INFO] [1792480847.981461284] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480849.687154963] [waypoint_navigator]: Distance remaining: 2.02 m; recoveries: 0
+[python-1] [INFO] [1792480850.238141452] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480851.688875210] [waypoint_navigator]: Distance remaining: 1.90 m; recoveries: 0
+[python-1] [INFO] [1792480852.350372604] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480853.696498353] [waypoint_navigator]: Distance remaining: 1.76 m; recoveries: 0
+[python-1] [INFO] [1792480854.518171974] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480855.706572722] [waypoint_navigator]: Distance remaining: 1.62 m; recoveries: 0
+[python-1] [INFO] [1792480856.661505357] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480857.719792711] [waypoint_navigator]: Distance remaining: 1.46 m; recoveries: 0
+[python-1] [INFO] [1792480858.733734066] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480859.729325583] [waypoint_navigator]: Distance remaining: 1.31 m; recoveries: 0
+[python-1] [INFO] [1792480860.853334858] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480861.738649521] [waypoint_navigator]: Distance remaining: 1.16 m; recoveries: 0
+[python-1] [INFO] [1792480863.057689133] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480863.749386912] [waypoint_navigator]: Distance remaining: 1.02 m; recoveries: 0
+[python-1] [INFO] [1792480865.103710727] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480865.756688256] [waypoint_navigator]: Distance remaining: 0.87 m; recoveries: 0
+[python-1] [INFO] [1792480867.250690125] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480867.771400657] [waypoint_navigator]: Distance remaining: 0.72 m; recoveries: 0
+[python-1] [INFO] [1792480869.327524787] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480869.777870305] [waypoint_navigator]: Distance remaining: 0.57 m; recoveries: 0
+[python-1] [INFO] [1792480871.423065537] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480871.786649765] [waypoint_navigator]: Distance remaining: 0.42 m; recoveries: 0
+[python-1] [INFO] [1792480873.466098502] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480873.800146476] [waypoint_navigator]: Distance remaining: 0.30 m; recoveries: 0
+[python-1] [INFO] [1792480875.702014842] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480875.806587460] [waypoint_navigator]: Distance remaining: 0.25 m; recoveries: 0
+[waypoint_navigator.py-2] [INFO] [1792480877.810522375] [waypoint_navigator]: Distance remaining: 0.25 m; recoveries: 0
+[python-1] [INFO] [1792480877.877056338] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480879.813784248] [waypoint_navigator]: Distance remaining: 0.23 m; recoveries: 0
+[python-1] [INFO] [1792480880.071406639] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480881.824544916] [waypoint_navigator]: Distance remaining: 0.22 m; recoveries: 0
+[python-1] [INFO] [1792480882.175303906] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480883.834166025] [waypoint_navigator]: Distance remaining: 0.22 m; recoveries: 0
+[python-1] [INFO] [1792480884.434151404] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480885.844016707] [waypoint_navigator]: Distance remaining: 0.25 m; recoveries: 0
+[python-1] [INFO] [1792480886.499465859] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480887.855353008] [waypoint_navigator]: Distance remaining: 0.22 m; recoveries: 0
+[waypoint_navigator.py-2] [INFO] [1792480888.174137933] [waypoint_navigator]: Goal 1 SUCCEEDED
+[python-1] [INFO] [1792480888.624446835] [yolo_detector]: Detected: no objects above threshold
+[python-1] [INFO] [1792480890.666785790] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480891.200494676] [waypoint_navigator]: Goal 2/3: (2.0, -3.0, 0.0) in map
+[waypoint_navigator.py-2] [INFO] [1792480891.225689620] [waypoint_navigator]: Distance remaining: 0.22 m; recoveries: 0
+[python-1] [INFO] [1792480893.016412107] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480893.233837913] [waypoint_navigator]: Distance remaining: 4.32 m; recoveries: 0
+[waypoint_navigator.py-2] [INFO] [1792480895.236131945] [waypoint_navigator]: Distance remaining: 4.22 m; recoveries: 0
+[python-1] [INFO] [1792480895.245012505] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480897.238979404] [waypoint_navigator]: Distance remaining: 4.10 m; recoveries: 0
+[python-1] [INFO] [1792480897.363254025] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480899.244759437] [waypoint_navigator]: Distance remaining: 4.04 m; recoveries: 0
+[python-1] [INFO] [1792480899.624585006] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480901.253825054] [waypoint_navigator]: Distance remaining: 3.85 m; recoveries: 0
+[python-1] [INFO] [1792480901.831539445] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480903.263344235] [waypoint_navigator]: Distance remaining: 3.72 m; recoveries: 0
+[python-1] [INFO] [1792480903.927561828] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480905.273498966] [waypoint_navigator]: Distance remaining: 3.69 m; recoveries: 0
+[python-1] [INFO] [1792480906.136347698] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480907.283222083] [waypoint_navigator]: Distance remaining: 3.45 m; recoveries: 0
+[python-1] [INFO] [1792480908.321431070] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480909.298400665] [waypoint_navigator]: Distance remaining: 3.17 m; recoveries: 0
+[python-1] [INFO] [1792480910.387329630] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480911.303710926] [waypoint_navigator]: Distance remaining: 3.11 m; recoveries: 0
+[python-1] [INFO] [1792480912.465647539] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480913.315035090] [waypoint_navigator]: Distance remaining: 2.92 m; recoveries: 0
+[python-1] [INFO] [1792480914.609605218] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480915.323438845] [waypoint_navigator]: Distance remaining: 2.77 m; recoveries: 0
+[python-1] [INFO] [1792480916.749520362] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480917.334786702] [waypoint_navigator]: Distance remaining: 2.57 m; recoveries: 0
+[python-1] [INFO] [1792480918.850117266] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480919.344724564] [waypoint_navigator]: Distance remaining: 2.46 m; recoveries: 0
+[python-1] [INFO] [1792480920.892047916] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480921.353392137] [waypoint_navigator]: Distance remaining: 2.30 m; recoveries: 0
+[python-1] [INFO] [1792480923.075876241] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480923.357409475] [waypoint_navigator]: Distance remaining: 2.15 m; recoveries: 0
+[python-1] [INFO] [1792480925.190767598] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480925.364640032] [waypoint_navigator]: Distance remaining: 2.00 m; recoveries: 0
+[python-1] [INFO] [1792480927.257566105] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480927.374216988] [waypoint_navigator]: Distance remaining: 1.88 m; recoveries: 0
+[python-1] [INFO] [1792480929.353752499] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480929.384935831] [waypoint_navigator]: Distance remaining: 1.75 m; recoveries: 0
+[python-1] [INFO] [1792480931.378338411] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480931.393904376] [waypoint_navigator]: Distance remaining: 1.65 m; recoveries: 0
+[waypoint_navigator.py-2] [INFO] [1792480933.400351541] [waypoint_navigator]: Distance remaining: 1.53 m; recoveries: 0
+[python-1] [INFO] [1792480933.534305325] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480935.403416887] [waypoint_navigator]: Distance remaining: 1.32 m; recoveries: 0
+[python-1] [INFO] [1792480935.670069060] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480937.406558174] [waypoint_navigator]: Distance remaining: 1.15 m; recoveries: 0
+[python-1] [INFO] [1792480937.780722790] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480939.413722376] [waypoint_navigator]: Distance remaining: 1.02 m; recoveries: 0
+[python-1] [INFO] [1792480940.016186345] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480941.426316102] [waypoint_navigator]: Distance remaining: 0.87 m; recoveries: 0
+[python-1] [INFO] [1792480942.088582565] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480943.433933706] [waypoint_navigator]: Distance remaining: 0.72 m; recoveries: 0
+[python-1] [INFO] [1792480944.227694200] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480945.447663970] [waypoint_navigator]: Distance remaining: 0.57 m; recoveries: 0
+[python-1] [INFO] [1792480946.262087222] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480947.454092331] [waypoint_navigator]: Distance remaining: 0.45 m; recoveries: 0
+[python-1] [INFO] [1792480948.498309061] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480949.463483158] [waypoint_navigator]: Distance remaining: 0.30 m; recoveries: 0
+[python-1] [INFO] [1792480950.596362930] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480951.474642086] [waypoint_navigator]: Distance remaining: 0.25 m; recoveries: 0
+[python-1] [INFO] [1792480952.629904031] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480953.487448883] [waypoint_navigator]: Distance remaining: 0.21 m; recoveries: 0
+[python-1] [INFO] [1792480954.769961677] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480955.493490492] [waypoint_navigator]: Distance remaining: 0.25 m; recoveries: 0
+[python-1] [INFO] [1792480956.975774554] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480957.504498048] [waypoint_navigator]: Distance remaining: 0.25 m; recoveries: 0
+[waypoint_navigator.py-2] [INFO] [1792480958.184017712] [waypoint_navigator]: Goal 2 SUCCEEDED
+[python-1] [INFO] [1792480959.077716217] [yolo_detector]: Detected: no objects above threshold
+[python-1] [INFO] [1792480961.041022771] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480961.187781401] [waypoint_navigator]: Goal 3/3: (-2.0, 4.0, 1.5707963267948966) in map
+[waypoint_navigator.py-2] [INFO] [1792480961.210225075] [waypoint_navigator]: Distance remaining: 0.22 m; recoveries: 0
+[python-1] [INFO] [1792480963.097068575] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480963.222523360] [waypoint_navigator]: Distance remaining: 8.71 m; recoveries: 0
+[python-1] [INFO] [1792480965.153134929] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480965.231449480] [waypoint_navigator]: Distance remaining: 8.65 m; recoveries: 0
+[waypoint_navigator.py-2] [INFO] [1792480967.232793178] [waypoint_navigator]: Distance remaining: 8.55 m; recoveries: 0
+[python-1] [INFO] [1792480967.302310640] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480969.239851415] [waypoint_navigator]: Distance remaining: 8.45 m; recoveries: 0
+[python-1] [INFO] [1792480969.465397724] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480971.246260011] [waypoint_navigator]: Distance remaining: 8.32 m; recoveries: 0
+[python-1] [INFO] [1792480971.658290738] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480973.251616517] [waypoint_navigator]: Distance remaining: 8.20 m; recoveries: 0
+[python-1] [INFO] [1792480973.785736176] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480975.261476258] [waypoint_navigator]: Distance remaining: 8.05 m; recoveries: 0
+[python-1] [INFO] [1792480975.983404933] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480977.262579882] [waypoint_navigator]: Distance remaining: 7.90 m; recoveries: 0
+[python-1] [INFO] [1792480978.001943215] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480979.272517911] [waypoint_navigator]: Distance remaining: 7.75 m; recoveries: 0
+[python-1] [INFO] [1792480980.334405643] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480981.279774263] [waypoint_navigator]: Distance remaining: 7.65 m; recoveries: 0
+[python-1] [INFO] [1792480982.532539956] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480983.291844558] [waypoint_navigator]: Distance remaining: 7.50 m; recoveries: 0
+[python-1] [INFO] [1792480984.810984725] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480985.300567480] [waypoint_navigator]: Distance remaining: 7.35 m; recoveries: 0
+[python-1] [INFO] [1792480986.920444713] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792480987.310548153] [waypoint_navigator]: Distance remaining: 7.25 m; recoveries: 0
+[python-1] [INFO] [1792480989.212967059] [yolo_detector]: Detected: chair 52%
+[waypoint_navigator.py-2] [INFO] [1792480989.312957711] [waypoint_navigator]: Distance remaining: 7.11 m; recoveries: 0
+[waypoint_navigator.py-2] [INFO] [1792480991.322108923] [waypoint_navigator]: Distance remaining: 6.97 m; recoveries: 0
+[python-1] [INFO] [1792480991.395168181] [yolo_detector]: Detected: chair 68%
+[waypoint_navigator.py-2] [INFO] [1792480993.325753036] [waypoint_navigator]: Distance remaining: 6.87 m; recoveries: 0
+[python-1] [INFO] [1792480993.700281680] [yolo_detector]: Detected: chair 88%
+[waypoint_navigator.py-2] [INFO] [1792480995.332442642] [waypoint_navigator]: Distance remaining: 6.72 m; recoveries: 0
+[python-1] [INFO] [1792480995.963975018] [yolo_detector]: Detected: chair 68%
+[waypoint_navigator.py-2] [INFO] [1792480997.333594771] [waypoint_navigator]: Distance remaining: 6.58 m; recoveries: 0
+[python-1] [INFO] [1792480998.077881201] [yolo_detector]: Detected: chair 80%
+[waypoint_navigator.py-2] [INFO] [1792480999.344966400] [waypoint_navigator]: Distance remaining: 6.44 m; recoveries: 0
+[python-1] [INFO] [1792481000.275743684] [yolo_detector]: Detected: chair 85%
+[waypoint_navigator.py-2] [INFO] [1792481001.359555946] [waypoint_navigator]: Distance remaining: 6.32 m; recoveries: 0
+[python-1] [INFO] [1792481002.468939861] [yolo_detector]: Detected: chair 76%, traffic light 43%
+[waypoint_navigator.py-2] [INFO] [1792481003.362314172] [waypoint_navigator]: Distance remaining: 6.17 m; recoveries: 0
+[python-1] [INFO] [1792481004.776099165] [yolo_detector]: Detected: chair 82%, traffic light 73%
+[waypoint_navigator.py-2] [INFO] [1792481005.369965704] [waypoint_navigator]: Distance remaining: 6.05 m; recoveries: 0
+[python-1] [INFO] [1792481007.049936598] [yolo_detector]: Detected: chair 83%, traffic light 49%
+[waypoint_navigator.py-2] [INFO] [1792481007.373314773] [waypoint_navigator]: Distance remaining: 5.92 m; recoveries: 0
+[python-1] [INFO] [1792481009.157503407] [yolo_detector]: Detected: chair 86%
+[waypoint_navigator.py-2] [INFO] [1792481009.380919493] [waypoint_navigator]: Distance remaining: 5.77 m; recoveries: 0
+[python-1] [INFO] [1792481011.240524283] [yolo_detector]: Detected: chair 89%
+[waypoint_navigator.py-2] [INFO] [1792481011.391732055] [waypoint_navigator]: Distance remaining: 5.65 m; recoveries: 0
+[python-1] [INFO] [1792481013.383009754] [yolo_detector]: Detected: chair 89%, snowboard 68%
+[waypoint_navigator.py-2] [INFO] [1792481013.401605811] [waypoint_navigator]: Distance remaining: 5.52 m; recoveries: 0
+[waypoint_navigator.py-2] [INFO] [1792481015.412439635] [waypoint_navigator]: Distance remaining: 5.43 m; recoveries: 0
+[python-1] [INFO] [1792481015.659460434] [yolo_detector]: Detected: chair 83%
+[waypoint_navigator.py-2] [INFO] [1792481017.420412612] [waypoint_navigator]: Distance remaining: 5.22 m; recoveries: 0
+[python-1] [INFO] [1792481017.808346865] [yolo_detector]: Detected: chair 87%
+[waypoint_navigator.py-2] [INFO] [1792481019.432370194] [waypoint_navigator]: Distance remaining: 5.10 m; recoveries: 0
+[python-1] [INFO] [1792481019.850711963] [yolo_detector]: Detected: chair 86%
+[waypoint_navigator.py-2] [INFO] [1792481021.440416001] [waypoint_navigator]: Distance remaining: 4.98 m; recoveries: 0
+[python-1] [INFO] [1792481022.092318649] [yolo_detector]: Detected: chair 84%
+[waypoint_navigator.py-2] [INFO] [1792481023.451829440] [waypoint_navigator]: Distance remaining: 4.86 m; recoveries: 0
+[python-1] [INFO] [1792481024.274754997] [yolo_detector]: Detected: chair 72%
+[waypoint_navigator.py-2] [INFO] [1792481025.460381168] [waypoint_navigator]: Distance remaining: 4.67 m; recoveries: 0
+[python-1] [INFO] [1792481026.420655999] [yolo_detector]: Detected: chair 89%
+[waypoint_navigator.py-2] [INFO] [1792481027.462145843] [waypoint_navigator]: Distance remaining: 4.50 m; recoveries: 0
+[python-1] [INFO] [1792481028.664286459] [yolo_detector]: Detected: chair 86%
+[waypoint_navigator.py-2] [INFO] [1792481029.471475635] [waypoint_navigator]: Distance remaining: 4.35 m; recoveries: 0
+[python-1] [INFO] [1792481030.866773462] [yolo_detector]: Detected: chair 89%
+[waypoint_navigator.py-2] [INFO] [1792481031.483782942] [waypoint_navigator]: Distance remaining: 4.28 m; recoveries: 0
+[python-1] [INFO] [1792481033.123318289] [yolo_detector]: Detected: chair 92%
+[waypoint_navigator.py-2] [INFO] [1792481033.490626283] [waypoint_navigator]: Distance remaining: 4.14 m; recoveries: 0
+[python-1] [INFO] [1792481035.448763366] [yolo_detector]: Detected: chair 93%
+[waypoint_navigator.py-2] [INFO] [1792481035.495755236] [waypoint_navigator]: Distance remaining: 4.00 m; recoveries: 0
+[waypoint_navigator.py-2] [INFO] [1792481037.500207052] [waypoint_navigator]: Distance remaining: 3.82 m; recoveries: 0
+[python-1] [INFO] [1792481037.563136746] [yolo_detector]: Detected: chair 82%
+[waypoint_navigator.py-2] [INFO] [1792481039.505952936] [waypoint_navigator]: Distance remaining: 3.86 m; recoveries: 0
+[python-1] [INFO] [1792481039.850222041] [yolo_detector]: Detected: traffic light 41%
+[waypoint_navigator.py-2] [INFO] [1792481041.516440252] [waypoint_navigator]: Distance remaining: 3.64 m; recoveries: 0
+[python-1] [INFO] [1792481041.914229818] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792481043.522887146] [waypoint_navigator]: Distance remaining: 3.45 m; recoveries: 0
+[python-1] [INFO] [1792481044.221060570] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792481045.527754018] [waypoint_navigator]: Distance remaining: 3.25 m; recoveries: 0
+[python-1] [INFO] [1792481046.300924311] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792481047.534685017] [waypoint_navigator]: Distance remaining: 3.07 m; recoveries: 0
+[python-1] [INFO] [1792481048.470323944] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792481049.536548015] [waypoint_navigator]: Distance remaining: 2.92 m; recoveries: 0
+[python-1] [INFO] [1792481050.667754289] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792481051.538122883] [waypoint_navigator]: Distance remaining: 2.80 m; recoveries: 0
+[python-1] [INFO] [1792481052.881814094] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792481053.547210660] [waypoint_navigator]: Distance remaining: 2.67 m; recoveries: 0
+[python-1] [INFO] [1792481055.125991717] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792481055.554076542] [waypoint_navigator]: Distance remaining: 2.52 m; recoveries: 0
+[python-1] [INFO] [1792481057.190177585] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792481057.564235977] [waypoint_navigator]: Distance remaining: 2.40 m; recoveries: 0
+[python-1] [INFO] [1792481059.391719622] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792481059.575006986] [waypoint_navigator]: Distance remaining: 2.25 m; recoveries: 0
+[python-1] [INFO] [1792481061.568482736] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792481061.578452926] [waypoint_navigator]: Distance remaining: 2.12 m; recoveries: 0
+[waypoint_navigator.py-2] [INFO] [1792481063.588100761] [waypoint_navigator]: Distance remaining: 1.97 m; recoveries: 0
+[python-1] [INFO] [1792481063.638079079] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792481065.597657766] [waypoint_navigator]: Distance remaining: 1.85 m; recoveries: 0
+[python-1] [INFO] [1792481065.845157295] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792481067.609808323] [waypoint_navigator]: Distance remaining: 1.70 m; recoveries: 0
+[python-1] [INFO] [1792481067.937416340] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792481069.616328076] [waypoint_navigator]: Distance remaining: 1.56 m; recoveries: 0
+[python-1] [INFO] [1792481070.077205115] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792481071.620668983] [waypoint_navigator]: Distance remaining: 1.41 m; recoveries: 0
+[python-1] [INFO] [1792481072.389136495] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792481073.625121557] [waypoint_navigator]: Distance remaining: 1.31 m; recoveries: 0
+[python-1] [INFO] [1792481074.478769700] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792481075.627539676] [waypoint_navigator]: Distance remaining: 1.16 m; recoveries: 0
+[python-1] [INFO] [1792481076.682001934] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792481077.635862394] [waypoint_navigator]: Distance remaining: 1.01 m; recoveries: 0
+[python-1] [INFO] [1792481078.773961131] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792481079.644134952] [waypoint_navigator]: Distance remaining: 0.87 m; recoveries: 0
+[python-1] [INFO] [1792481080.971078114] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792481081.648884103] [waypoint_navigator]: Distance remaining: 0.72 m; recoveries: 0
+[python-1] [INFO] [1792481083.027522252] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792481083.655671200] [waypoint_navigator]: Distance remaining: 0.57 m; recoveries: 0
+[python-1] [INFO] [1792481085.286077094] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792481085.657812025] [waypoint_navigator]: Distance remaining: 0.45 m; recoveries: 0
+[python-1] [INFO] [1792481087.424120074] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792481087.664618764] [waypoint_navigator]: Distance remaining: 0.32 m; recoveries: 0
+[python-1] [INFO] [1792481089.622196045] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792481089.674098529] [waypoint_navigator]: Distance remaining: 0.25 m; recoveries: 0
+[python-1] [INFO] [1792481091.664045880] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792481091.678579210] [waypoint_navigator]: Distance remaining: 0.23 m; recoveries: 0
+[waypoint_navigator.py-2] [INFO] [1792481093.684202842] [waypoint_navigator]: Distance remaining: 0.23 m; recoveries: 0
+[python-1] [INFO] [1792481093.838467222] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792481094.105247363] [waypoint_navigator]: Goal 3 SUCCEEDED
+[python-1] [INFO] [1792481095.879794401] [yolo_detector]: Detected: no objects above threshold
+[waypoint_navigator.py-2] [INFO] [1792481097.124015253] [waypoint_navigator]: All 3 goals SUCCEEDED. Results: /home/chuc/workspaces/ur_gz/src/turtlebot4_slam_nav/artifacts/autonomy_video_clean/waypoints.json
+[INFO] [waypoint_navigator.py-2]: process has finished cleanly [pid 18284]
+[python-1] [INFO] [1792481097.901504668] [yolo_detector]: Detected: no objects above threshold
+[python-1] [INFO] [1792481099.839428713] [yolo_detector]: Detected: no objects above threshold
+[python-1] [INFO] [1792481101.873818581] [yolo_detector]: Detected: no objects above threshold
